@@ -1,4 +1,4 @@
-# node-express-babel-boilerplate
+# Active-node-express-babel
 
 This application is a kick-starting with simple node js application (**Server Side**) 
 that allows you to use `import` statement and other es6 experimental features.
